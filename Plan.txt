@@ -1,0 +1,13 @@
+# The Plan
+
+
+1. Terraform
+    a. Build 3 Servers
+
+2. Ansible
+    a. Configure Servers based on Deploying a Secure Virtual Private Server with Ubuntu 20.04
+        1. Caddy reverse proxy
+        2. App Server (sissor rock paper)
+        3. Database Server
+
+ 
