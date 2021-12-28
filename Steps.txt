@@ -1,0 +1,16 @@
+# Download Terraform and install it
+https://www.terraform.io/downloads
+i
+Download the file and the shasum file
+https://releases.hashicorp.com/terraform/1.1.2/terraform_1.1.2_linux_amd64.zip
+https://releases.hashicorp.com/terraform/1.1.2/terraform_1.1.2_SHA256SUMS
+
+shasum -a 256 terraform_1.1.2_linux_amd64.zip
+Check the sums
+unzip terraform_1.1.2_linux_amd64.zip
+cd terraform_1.1.2_linux_amd64
+sudo mv terraform /usr/local/bin
+
+sudo chown root:root /usr/local/bin/terraform
+
+$ terraform --version

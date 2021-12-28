@@ -1,5 +1,11 @@
 # The Plan
 
+Resources:
+1. Learn DevOps: Infrastructure Automation With Terraform  (Udemy)
+2. Data Center DevOps: On-Prem Infrastructure Like The Cloud
+    a. Section 8 VM Deployment with Terraform
+3. https://www.digitalocean.com/community/tutorials/how-to-use-terraform-with-digitalocean
+4.https://www.toptal.com/developers/.gitignore
 
 1. Terraform
     a. Build 3 Servers
